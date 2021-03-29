@@ -14,8 +14,8 @@ profile: Just an artist on the internet finding a home for my art.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  #Email: ""
-  #GitHub: ""
+  Email: ""
+  GitHub: ""
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
